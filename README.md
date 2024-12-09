@@ -19,3 +19,11 @@ function SomeComponent() {
 
 export default App;
 ```
+
+### Demo
+
+Run this project locally to demo:
+
+```bash
+npm run dev
+```
